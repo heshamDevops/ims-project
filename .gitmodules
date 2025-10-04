@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/heshamDevops/ims-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/heshamDevops/ims-frontend.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/heshamDevops/ims-infrastructure.git
